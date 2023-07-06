@@ -65,6 +65,7 @@ The subtitle and title information was then merged with the information gathered
 For any additional questions or comments please email me at kraymond@uoguelph.ca 
 
 ## License 
-This project is licensed under the terms of the MIT license.
+
+This project is licensed under GNU LESSER GENERAL PUBLIC LICENSE
 
 
