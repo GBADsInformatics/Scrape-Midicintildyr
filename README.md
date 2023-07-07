@@ -20,7 +20,7 @@ This project focuses on data scraping from [MEDICIN TIL DYR](https://medicintild
 ## How to Run
 1. Clone this repository.
 2. Navigate to the directory.
-3. Run `python script_name.py` (replace script_name.py with your script's name).
+3. Run the scripts as articulated in the section below.
 
 ## Code Overview
 This project uses Selenium for simulating browser activities, thereby fetching data from the JavaScript rendered page.
